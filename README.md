@@ -35,7 +35,7 @@ Als Übungsaufgabe im Rahmen meines Studiums und zur Vertiefung meiner Kenntniss
 5.  Führen Sie die Zellen im Notebook aus, um das Modell zu trainieren und zu evaluieren.
 
 ## Bezug zur Stellenausschreibung (Werkstudent Softwareentwicklung – Künstliche Intelligenz)
-Dieses Projekt ist direkt relevant für die ausgeschriebene Stelle, da es meine praktischen Fähigkeiten in folgenden Bereichen unter Beweis stellt:
+Dieses Projekt ist stellt meine praktischen Fähigkeiten in folgenden Bereichen unter Beweis:
 * **Künstliche Intelligenz & Maschinelles Lernen:** Fundiertes Verständnis und praktische Anwendung von Deep Learning-Konzepten (insbesondere CNNs für Computer Vision).
 * **PyTorch:** Umfangreiche Erfahrung im Aufbau, Training und der Evaluierung neuronaler Netze mit PyTorch, einem der führenden Frameworks in der KI-Forschung und -Entwicklung.
 * **Softwareentwicklung mit Python:** Strukturierter Code und Implementierung eines vollständigen ML-Workflows.
