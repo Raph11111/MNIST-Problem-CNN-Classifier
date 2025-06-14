@@ -35,10 +35,10 @@ Als Übungsaufgabe im Rahmen meines Studiums und zur Vertiefung meiner Kenntniss
 5.  Führen Sie die Zellen im Notebook aus, um das Modell zu trainieren und zu evaluieren.
 
 ## Bezug zur Stellenausschreibung (Werkstudent Softwareentwicklung – Künstliche Intelligenz)
-Dieses Projekt ist stellt meine praktischen Fähigkeiten in folgenden Bereichen unter Beweis:
+Dieses Projekt stellt meine praktischen Fähigkeiten in folgenden Bereichen unter Beweis:
 * **Künstliche Intelligenz & Maschinelles Lernen:** Fundiertes Verständnis und praktische Anwendung von Deep Learning-Konzepten (insbesondere CNNs für Computer Vision).
 * **PyTorch:** Umfangreiche Erfahrung im Aufbau, Training und der Evaluierung neuronaler Netze mit PyTorch, einem der führenden Frameworks in der KI-Forschung und -Entwicklung.
 * **Softwareentwicklung mit Python:** Strukturierter Code und Implementierung eines vollständigen ML-Workflows.
 * **Datenanalyse und -verarbeitung:** Umgang mit Bilddaten und deren Transformationen für Deep Learning-Modelle.
 * **Problemlösungsfähigkeiten:** Anwendung bekannter Algorithmen zur Lösung eines Klassifikationsproblems.
-* **Erfahrung im Erstellen von Prompts:** Obwohl dieses Projekt kein direktes Prompt Engineering im Sinne von Large Language Models (LLMs) beinhaltet, zeigt die detaillierte Dokumentation des Workflows und der Modellarchitektur mein Verständnis für präzise Anweisungen und den Aufbau von Systemen, was eine übertragbare Fähigkeit im Umgang mit komplexen KI-Modellen ist.
+* **Erfahrung im Erstellen von Prompts:** Dieses Projekt zeigt die detaillierte Dokumentation des Workflows und der Modellarchitektur mein Verständnis für präzise Anweisungen und den Aufbau von Systemen, was eine übertragbare Fähigkeit im Umgang mit komplexen KI-Modellen ist.
